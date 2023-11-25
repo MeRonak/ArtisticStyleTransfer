@@ -30,6 +30,19 @@ This repository implements the Neural Style Transfer algorithm proposed in the p
   - optimizer: Adam optimizer with a learning rate of 0.001 for image optimization.
 
 
+Working of VGG19, pretrained on ImageNet
 ![Screenshot 2023-11-26 020907](https://github.com/MeRonak/ArtisticStyleTransfer/assets/87123160/27de2ef4-4fc0-4ee9-acad-f2a99526d51c)
+
+Layers of VGG
+![vgg19](https://github.com/MeRonak/ArtisticStyleTransfer/assets/87123160/6ff390e8-479c-4d66-b742-1f036bbd5c9a)
+
+Original Image to be transformed
+![pexels-pixabay-220453-min](https://github.com/MeRonak/ArtisticStyleTransfer/assets/87123160/5569a83f-43d4-4c53-ae93-d3f8406b0e7a)
+
+Artistic Style we want original image to transform into
+![art-min](https://github.com/MeRonak/ArtisticStyleTransfer/assets/87123160/b5b79df7-23ce-452a-a106-943ea5d6cf8b)
+
+Result
+![generated (1)-min](https://github.com/MeRonak/ArtisticStyleTransfer/assets/87123160/5f89c826-b47e-4c08-a26b-46d4a63e2fb1)
 
 
