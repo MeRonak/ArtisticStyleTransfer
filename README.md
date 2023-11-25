@@ -1,5 +1,9 @@
 # ArtisticStyleTransfer
 
+# Note : For running the .ipynb file on google colab make sure to switch the runtime from cpu to gpu
+
+
+
 # Neural Style Transfer: A Neural Algorithm of Artistic Style
 This repository implements the Neural Style Transfer algorithm proposed in the paper "A Neural Algorithm of Artistic Style" by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. The algorithm introduces an innovative approach to blend the content of one image with the artistic style of another, leveraging deep neural networks.
 
