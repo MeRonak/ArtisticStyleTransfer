@@ -28,3 +28,8 @@ This repository implements the Neural Style Transfer algorithm proposed in the p
   - total_steps: The total number of optimization steps, controlling the refinement of the stylized image.
   - Alpha and Beta: Weight factors for content and style losses, influencing the importance of each in the total loss calculation.
   - optimizer: Adam optimizer with a learning rate of 0.001 for image optimization.
+
+
+![Screenshot 2023-11-26 020907](https://github.com/MeRonak/ArtisticStyleTransfer/assets/87123160/27de2ef4-4fc0-4ee9-acad-f2a99526d51c)
+
+
